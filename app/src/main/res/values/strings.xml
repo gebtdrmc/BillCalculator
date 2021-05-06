@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">P03 - Bill Calculator</string>
+    <string name="tvAmount">Amount</string>
+    <string name="tvNum_of_pax">Num of Pax</string>
+    <string name="tvDiscount">Discount</string>
+    <string name="rbCash">Cash</string>
+    <string name="rbPaynow">PayNow</string>
+    <string name="btnNo_svs">No SVS</string>
+    <string name="btnGst">GST</string>
+    <string name="btnSplit">Split</string>
+    <string name="btnReset">Reset</string>
+    <string name="tvTotal_bill">Total Bill: $</string>
+    <string name="tvEach_pays">Each Pays: $</string>
+    <string name="btnNo_gst">NO GST</string>
+    <string name="btnSvs">SVS</string>
+</resources>
